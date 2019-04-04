@@ -1,0 +1,164 @@
+
+.menuja{
+	
+	overflow: hidden;
+	
+	
+}
+img[src="img/logo.png"] {
+	width: 80px;
+	border-radius: 8px;
+	display: inline;
+	position: absolute;
+	margin-top: 12px;
+	
+}
+h1{
+	text-align: center;
+    font-family: 'ZCOOL XiaoWei', serif;
+	font-size: 60px;
+}
+li{
+	float: left;
+	padding-right: 50px;
+	display: block;
+}
+ul{
+	float: right;
+	margin-bottom: 30px;
+	background-color: black;
+	width: 100%;
+
+}
+nav a{
+	width: 100%;
+	display: block;
+	padding: 20px 15px;
+	text-decoration: none;
+	font-family: none;
+	color: white;
+	text-align: center;
+	margin-left: 50px;
+	
+
+}
+a:hover{
+	color: red;
+	background-color: white;
+	transition: 0.5s all;
+}
+.active{
+	color: red;
+}
+nav{
+	margin-top: 20px;
+
+}
+.shkolla1{
+	width: 100%;
+}
+a{
+	text-decoration: none;
+    
+}
+footer{
+	background-color: black;
+	margin-left: 10% ;
+	margin-right: 10%;
+	color:white;
+	border-radius: 5px;
+}
+table  {
+	width: 50%;
+	margin-left: 300px;
+	margin-bottom: 60px;
+	padding: 20px;
+
+}
+input.reg{
+	margin: 10px;
+	width: 300px;
+	border-radius: 5px;
+	border: 2px solid lightblue;
+}
+input[type="checkbox"]{
+	margin-top: 10px;
+	
+}
+.buton{
+	text-align: center;
+	margin-top: 20px;
+	width: 150px;
+	height: 35px;
+	border: 2px solid black;
+	border-radius: 8px;
+	background-color: #afdbd2;
+}
+
+}
+input[type="checkbox"]{
+	width: 16px;
+	height: 16px;
+	display: inline;
+	margin-left: 40px;
+}
+.in{
+	display: inline;
+
+}
+input[type="radio"]{
+	margin: 10px;
+}
+td{
+	font-size: 20px;
+}
+#img1,#img2,#img3{
+	width: 80%;
+}
+.row{
+	margin-bottom:  20px;
+	border: 2px solid black;
+	border-radius: 7px;
+	text-align: center;
+	background-color: #d8d8d8;
+	
+
+}
+.col-md-4,.col-md-6{
+	border-radius: 7px;
+	border: 0px solid grey;
+	
+
+}
+.shkolla_1{
+	width: 100%;
+	height: 270px;
+}
+#anulo{
+	margin-left: 90px;
+}
+#sub{
+	margin-left: 20px;
+}
+#jobak{
+	border: 0px solid white;
+	text-align: left;
+}
+#problem{
+	width: 100%;
+	height: 460px;
+}
+img{
+	border-radius: 8px;
+}
+.container{
+	background-color: #f4f4f4;
+}
+#anulo:hover{
+	background-color: blue;
+	color: white;
+}	
+#sub:hover{
+	background-color: blue;
+	color: white;
+}
